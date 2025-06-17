@@ -80,6 +80,7 @@ Este tutorial orienta você na criação de uma máquina virtual com Windows Ser
 🔗 Referências:
 
 [Início Rápido: Criar uma máquina virtual do Windows no Portal do Azure](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal)
+
 [Documentação oficial do Azure](https://learn.microsoft.com/pt-br/azure/?product=popular)
 
 
